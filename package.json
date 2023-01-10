@@ -14,5 +14,22 @@
   "devDependencies": {
     "typescript": "^4.9.4",
     "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "@pixi/app": "^6",
+    "@pixi/constants": "6.5.8",
+    "@pixi/core": "^6",
+    "@pixi/display": "^6",
+    "@pixi/extensions": "6.5.8",
+    "@pixi/interaction": "^6.5.8",
+    "@pixi/loaders": "^6",
+    "@pixi/math": "^6",
+    "@pixi/runner": "6.5.8",
+    "@pixi/settings": "6.5.8",
+    "@pixi/sprite": "^6",
+    "@pixi/ticker": "6.5.8",
+    "@pixi/utils": "^6",
+    "pixi-live2d-display": "^0.4.0",
+    "pixi.js": "^7.0.5"
   }
 }
